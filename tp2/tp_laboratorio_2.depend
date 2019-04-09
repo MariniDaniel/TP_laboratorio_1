@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1554764614 source:c:\users\alumno\desktop\tp_laboratorio_2-master\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1554763709 c:\users\alumno\desktop\tp_laboratorio_2-master\arrayemployees.h
+
+1554764614 source:c:\users\alumno\desktop\tp_laboratorio_2-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538698586 source:c:\users\alumno\desktop\trabajo\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538683638 c:\users\alumno\desktop\trabajo\arrayemployees.h
+
+1538698705 source:c:\users\alumno\desktop\trabajo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1554764614 source:c:\users\alumno\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1554763709 c:\users\alumno\desktop\tp2\arrayemployees.h
+
+1554764614 source:c:\users\alumno\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
