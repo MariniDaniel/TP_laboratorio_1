@@ -1,0 +1,247 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541527119 source:d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"menu.h"
+
+1533133022 d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\linkedlist.h
+
+1541517949 d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\employee.h
+
+1541348812 source:d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1533133022 d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\controller.h
+
+1541523536 source:d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541527182 source:d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1541526863 source:d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\menu.c
+	"menu.h"
+
+1541525250 d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541342201 d:\utn fra\1º año\1º cuatrimestre\tp_laboratorio_3\linkedlist\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1541509754 source:c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"menu.h"
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\linkedlist.h
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\employee.h
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541509754 source:c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1541873730 source:c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1541873768 c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\controller.h
+
+1541509754 source:c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\menu.c
+	"menu.h"
+
+1541509754 source:c:\users\dani\desktop\tp3\tp_laboratorio_3-master (2)\tp_laboratorio_3-master\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1541875048 source:c:\users\dani\desktop\tp3\tp_laboratorio_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"menu.h"
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3\linkedlist.h
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3\employee.h
+
+1541509754 c:\users\dani\desktop\tp3\tp_laboratorio_3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541874169 source:c:\users\dani\desktop\tp3\tp_laboratorio_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1541873730 source:c:\users\dani\desktop\tp3\tp_laboratorio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1541873768 c:\users\dani\desktop\tp3\tp_laboratorio_3\controller.h
+
+1541875048 source:c:\users\dani\desktop\tp3\tp_laboratorio_3\menu.c
+	"menu.h"
+
+1541509754 source:c:\users\dani\desktop\tp3\tp_laboratorio_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1543272085 source:c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"menu.h"
+
+1543272085 c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1543272085 c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\linkedlist.h
+
+1543272085 c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\employee.h
+
+1543272085 c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1543272085 source:c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1543272085 source:c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1543272085 c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\controller.h
+
+1543272085 source:c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\menu.c
+	"menu.h"
+
+1543272085 source:c:\users\dani\desktop\tp_laboratorio_3-master (3)\tp_laboratorio_3-master\tp_laboratorio_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
